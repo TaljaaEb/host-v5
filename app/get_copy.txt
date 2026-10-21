@@ -1,0 +1,1 @@
+wget --load-cookies /tmp/cookies.txt "https://google.com(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://google.com' -O- | grep -o 'confirm=[^&]*' | sed 's/confirm=//')&id=1Ah7phhrInCcHtEl_hyFIpCdNik3bTbjU" -O app.zip && rm -rf /tmp/cookies.txt
